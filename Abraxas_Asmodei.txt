@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-30T09:57:54-04:00
+
+====== Abraxas Asmodei ======
+Created Thursday 30 April 2020
+
+[[:Inventory]]
+Max HP: 10
+
+===== Passive =====
+Darkvision 60ft (Tiefling)
+Fire resistance (Tiefling)
+[[:City Secrets]] (Urchin)
+Ritual Casting (Bard)
+
+===== Short Rest =====
+
+===== Long Rest =====
+[[:Bardic Inspiration]] 
+Spells
+// Hellish Rebuke (Tiefling 3rd level)
+// Darkness (Tiefling 5th level)
+
+====== Spells ======
+
+===== Cantrips =====
+Thaumaturgy (Tiefling)
+Friends
+Message
+
+===== 1st level =====
+Dissonant Whispers
+Healing Word
+Heroism
+Sleep
+

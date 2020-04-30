@@ -1,0 +1,16 @@
+Abraxas Asmodei
+NG Urchin Tiefling Bard
+STR 12
+DEX 14
+CON 16
+INT 7   (6+1)
+WIS 15
+CHA 18  (16+2)
+
+Abraxas Asmodei was always faster with his tongue than with a dagger, and always looking for a racket to run.
+His mother being sickly, and his father poor, they didn't have much, and Abraxas swore to himself he wouldn't suffer the same life they had.
+From the sparkling highways of upper Luxendarc down to the dank catacombs of the nest, Abraxas swindled, gambled, and cheated so that he and his family could survive.
+Eventually, his habits caught up with him when he conned a Luxendarcian noble, Lord Farah, out of a few too many silver.
+Lord Farah would have had Abraxas hanged, but the courts ruled in Abraxas' favor and he was sent into exile instead.
+
+Now Abraxas roams the free lands searching for friends, companions, someone who might have his back if his habits catch up to him again.

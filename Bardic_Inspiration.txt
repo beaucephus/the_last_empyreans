@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-30T10:13:17-04:00
+
+====== Bardic Inspiration ======
+Created Thursday 30 April 2020
+
+d6
+duration: 10 minutes
