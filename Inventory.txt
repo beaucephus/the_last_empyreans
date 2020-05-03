@@ -5,13 +5,15 @@ Creation-Date: 2020-02-01T18:32:53-05:00
 ====== Inventory ======
 Created Saturday 01 February 2020
 
-10 GP
+30 GP
 
 Leather armor (equipped)
 Darts
 Harmonica
 Dagger
 Map of Luxendarc (Urchin)
+1 Giant dragon horn
+Playing cards. Some are marked
 
 ===== Entertainer's Pack =====
 Backpack

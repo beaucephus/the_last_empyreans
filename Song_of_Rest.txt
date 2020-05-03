@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-03T19:30:46-04:00
+
+====== Song of Rest ======
+Created Sunday 03 May 2020
+
+Beginning at 2nd Level, you can use soothing music or oration to help revitalize your wounded allies during a Short Rest.
+If you or any friendly creatures who can hear your Performance regain Hit Points by spending Hit Dice at the end of the Short Rest, each of those creatures regains an extra 1d6 Hit Points.
+
+The extra Hit Points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.

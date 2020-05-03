@@ -7,12 +7,15 @@ Created Thursday 30 April 2020
 
 [[:Inventory]]
 Max HP: 10
+Exp: 300
 
 ===== Passive =====
 Darkvision 60ft (Tiefling)
 Fire resistance (Tiefling)
 [[:City Secrets]] (Urchin)
 Ritual Casting (Bard)
+[[:Jack of all Trades]]
+[[:Song of Rest]]
 
 ===== Short Rest =====
 
@@ -30,6 +33,7 @@ Friends
 Message
 
 ===== 1st level =====
+Detect Magic
 Dissonant Whispers
 Healing Word
 Heroism
