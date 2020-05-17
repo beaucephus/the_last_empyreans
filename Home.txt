@@ -10,11 +10,11 @@ HP: 17
 
 ===== Bardic Inspiration =====
 
-=== 2/4 ===
+=== 0/4 ===
 
 ===== Spell Slots =====
 
-=== 1st 1/3 ===
+=== 1st 0/3 ===
 
 ====== 2020/05/03 ======
 Travelling to the village of [[:Norende]]
@@ -22,9 +22,17 @@ Woke up in a prison with a headache
 Red-hood dude, maybe Eliza de Rosso, real bad, mentioned meeting in [[:Isenburg]]
 Met Talmon the rogue and other party members
 Allie the helpful guard is gonna break us out of jail
-Found letter written by de Rosso family
+Found letter written by Lester de Rosso family
 Leaving the dungeon
 
-
-
-
+===== 2020/05/17 =====
+Found alter to [[:Galdera]] , the god of death
+Left dungeon, entering [[:Norende]]
+Went to taver, the Milky Lantern
+Met Sir Henry, knight of Kaldizla, is investigating the churc in Norende
+Traded dragon horn for potions in potion shop, got a map.
+Red-eyes Black Zombie Dragon rained lightning and summoned zombies, destroying the town.
+Sir Henry is a bad-ass!!!
+Cultists were trying to revive [[:Yulyanna]] , the ancient one, the first of the empyreans
+[[:Tauzerat]] the great shadow dragon blew up the village
+Handed village elder over to Sir Henry to be tried in big city to the south

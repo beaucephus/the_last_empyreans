@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-05-17T16:31:36-04:00
+
+====== Potion of Water Breathing ======
+Created Sunday 17 May 2020
+
+Potion of water breathing 100gp - You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish-like bubble floating in it.
