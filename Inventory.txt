@@ -5,12 +5,16 @@ Creation-Date: 2020-02-01T18:32:53-05:00
 ====== Inventory ======
 Created Saturday 01 February 2020
 
-30 GP
+278 GP
 
+thieves tools
+Pocket Sand
+Bag of Caltrops 2
 [[Potion of Climbing]]
 [[Potion of Water Breathing]]
-[[Potion of Clairvoyance]]
-Leather armor (equipped)
+Potion of Healing 1
+Studded Leather Armor (equipped)
+Leather armor
 Darts
 Harmonica
 Dagger

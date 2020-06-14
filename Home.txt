@@ -6,26 +6,30 @@ Creation-Date: 2020-02-01T18:32:32-05:00
 Created Saturday 01 February 2020
 
 ====== Status ======
-HP: 17
+HP: 13
 
 ===== Bardic Inspiration =====
 
-=== 0/4 ===
+=== 1/4 ===
 
 ===== Spell Slots =====
 
-=== 1st 0/3 ===
+=== 1st 3/3 ===
 
-====== 2020/05/03 ======
-Travelling to the village of [[:Norende]]
-Woke up in a prison with a headache
-Red-hood dude, maybe Eliza de Rosso, real bad, mentioned meeting in [[:Isenburg]]
-Met Talmon the rogue and other party members
-Allie the helpful guard is gonna break us out of jail
-Found letter written by Lester de Rosso family
-Leaving the dungeon
+====== 2020/06/14 ======
+Had a vision of myself in a tall library. Books starting crashing down on me.
+Arrived at [[:Caldisla]]
+Potential work at the mine and docks.
+Met Sir Adrian at the palace. He is acting differently and standoffish.
+Met [[:King Aurelius]] and [[:Veleya]]
+Held court for elder of [[:Norende]]
+Elder mentioned [[:Laidy Jaina]] and implicated her in the destruction of Norende
+[[:Sir Adrian]] killed Norende elder and teleported out of the court
+Travelled to cave/ruins on west shore of Caldisla continent to investigate cultist activity.
+Fought some cultists in the cave.
+They're working for Master Franz.
 
-===== 2020/05/17 =====
+====== 2020/05/17 ======
 Found alter to [[:Galdera]] , the god of death
 Left dungeon, entering [[:Norende]]
 Went to taver, the Milky Lantern
@@ -36,3 +40,13 @@ Sir Henry is a bad-ass!!!
 Cultists were trying to revive [[:Yulyanna]] , the ancient one, the first of the empyreans
 [[:Tauzerat]] the great shadow dragon blew up the village
 Handed village elder over to Sir Henry to be tried in big city to the south
+
+====== 2020/05/03 ======
+Travelling to the village of [[:Norende]]
+Woke up in a prison with a headache
+Red-hood dude, maybe Eliza de Rosso, real bad, mentioned meeting in [[:Isenburg]]
+Met Talmon the rogue and other party members
+Allie the helpful guard is gonna break us out of jail
+Found letter written by Lester de Rosso family
+Leaving the dungeon
+

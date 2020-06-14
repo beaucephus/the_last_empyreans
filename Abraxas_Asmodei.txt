@@ -33,7 +33,7 @@ Friends
 Message
 
 ===== 1st level =====
-Detect Magic
+Detect Magic (Ritual)
 Dissonant Whispers
 Healing Word
 Heroism
