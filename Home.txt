@@ -6,15 +6,22 @@ Creation-Date: 2020-02-01T18:32:32-05:00
 Created Saturday 01 February 2020
 
 ====== Status ======
-HP: 13
+HP: 14/24
 
 ===== Bardic Inspiration =====
 
-=== 1/4 ===
+=== 0/4 ===
 
 ===== Spell Slots =====
 
-=== 1st 3/3 ===
+=== 1st 0/4 ===
+
+=== 2nd 0/3 ===
+
+====== 2020/06/28 ======
+Met Vincent DeRosso, seems like a nice guy
+Boarded the cultist boat to [[:Eisenberg]]
+Met Isaac Barron, the captain of the ship
 
 ====== 2020/06/14 ======
 Had a vision of myself in a tall library. Books starting crashing down on me.

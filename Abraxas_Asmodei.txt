@@ -6,8 +6,8 @@ Creation-Date: 2020-04-30T09:57:54-04:00
 Created Thursday 30 April 2020
 
 [[:Inventory]]
-Max HP: 17
-Exp: 800
+Max HP: 24
+Exp: 2700
 
 ===== Passive =====
 Darkvision 60ft (Tiefling)
@@ -16,13 +16,14 @@ Fire resistance (Tiefling)
 Ritual Casting (Bard)
 [[:Jack of all Trades]]
 [[:Song of Rest]]
+[[:Cutting Words]]
 
 ===== Short Rest =====
 
 ===== Long Rest =====
 [[:Bardic Inspiration]] 
 Spells
-// Hellish Rebuke (Tiefling 3rd level)
+[[:Hellish Rebuke]]
 // Darkness (Tiefling 5th level)
 
 ====== Spells ======
@@ -31,6 +32,7 @@ Spells
 Thaumaturgy (Tiefling)
 Friends
 Message
+Prestidigitation
 
 ===== 1st level =====
 Detect Magic (Ritual)
@@ -38,4 +40,8 @@ Dissonant Whispers
 Healing Word
 Heroism
 Sleep
+
+===== 2nd level =====
+Invisibility
+Locate Object
 
