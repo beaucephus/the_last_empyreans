@@ -6,17 +6,22 @@ Creation-Date: 2020-02-01T18:32:32-05:00
 Created Saturday 01 February 2020
 
 ====== Status ======
-HP: 14/24
+HP: 31/31
 
 ===== Bardic Inspiration =====
 
-=== 0/4 ===
+=== 2/4 ===
 
 ===== Spell Slots =====
 
-=== 1st 0/4 ===
+=== 1st 1/4 ===
 
-=== 2nd 0/3 ===
+=== 2nd 3/3 ===
+
+====== 2020/07/12 ======
+Met Prince Gerald
+Entered DeRosso estate
+
 
 ====== 2020/06/28 ======
 Met Vincent DeRosso, seems like a nice guy

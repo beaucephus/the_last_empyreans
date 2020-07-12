@@ -6,8 +6,8 @@ Creation-Date: 2020-04-30T09:57:54-04:00
 Created Thursday 30 April 2020
 
 [[:Inventory]]
-Max HP: 24
-Exp: 2700
+Max HP: 31
+Exp: 3900
 
 ===== Passive =====
 Darkvision 60ft (Tiefling)
