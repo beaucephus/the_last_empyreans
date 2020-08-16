@@ -6,8 +6,9 @@ Creation-Date: 2020-04-30T09:57:54-04:00
 Created Thursday 30 April 2020
 
 [[:Inventory]]
-Max HP: 31
-Exp: 3900
+Max HP: 38
+Exp: 7300
+Bard 5
 
 ===== Passive =====
 Darkvision 60ft (Tiefling)
@@ -19,29 +20,31 @@ Ritual Casting (Bard)
 [[:Cutting Words]]
 
 ===== Short Rest =====
+[[:Bardic Inspiration]] 
 
 ===== Long Rest =====
-[[:Bardic Inspiration]] 
 Spells
-[[:Hellish Rebuke]]
-// Darkness (Tiefling 5th level)
+[[:Hellish Rebuke]] (2nd level)
+Darkness
+[[:Bardic Conviction]] (vision)
 
-====== Spells ======
-
-===== Cantrips =====
+==== Cantrips ====
 Thaumaturgy (Tiefling)
 Friends
 Message
 Prestidigitation
 
-===== 1st level =====
-Detect Magic (Ritual)
+==== 1st level ====
+Detect Magic (R)
 Dissonant Whispers
 Healing Word
 Heroism
-Sleep
 
-===== 2nd level =====
+==== 2nd level ====
+Hold Person
 Invisibility
 Locate Object
+
+==== 3rd level ====
+Major Image
 
