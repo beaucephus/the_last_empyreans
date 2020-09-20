@@ -7,5 +7,7 @@ Created Sunday 16 August 2020
 
 Power coming from some sort of vision
 
-Once per long rest, when you use bardic inspiration, you may expend any number of dice to empower that many allies.
+Once per long rest, when you use [[:Bardic Inspiration]] , you may expend any number of dice to empower that many allies.
 Any allies you empower this way will always land their next attack.
+
+

@@ -6,8 +6,8 @@ Creation-Date: 2020-04-30T09:57:54-04:00
 Created Thursday 30 April 2020
 
 [[:Inventory]]
-Max HP: 38
-Exp: 7300
+Max HP: 45
+Exp: 14600
 Bard 5
 
 ===== Passive =====
@@ -18,6 +18,7 @@ Ritual Casting (Bard)
 [[:Jack of all Trades]]
 [[:Song of Rest]]
 [[:Cutting Words]]
+[[:Countercharm]]
 
 ===== Short Rest =====
 [[:Bardic Inspiration]] 
@@ -25,26 +26,29 @@ Ritual Casting (Bard)
 ===== Long Rest =====
 Spells
 [[:Hellish Rebuke]] (2nd level)
-Darkness
+Darkness (C)
 [[:Bardic Conviction]] (vision)
 
-==== Cantrips ====
-Thaumaturgy (Tiefling)
+**Cantrips**
+Eldritch Blast (Magical Secrets)
 Friends
 Message
 Prestidigitation
+Thaumaturgy (Tiefling)
 
-==== 1st level ====
+**1st**
+Comprehend Languages (R)
 Detect Magic (R)
 Dissonant Whispers
 Healing Word
-Heroism
+Heroism (C)
 
-==== 2nd level ====
-Hold Person
-Invisibility
-Locate Object
+**2nd**
+Hold Person (C)
+Invisibility (C)
+Locate Object (C)
 
-==== 3rd level ====
-Major Image
+**3rd**
+Counterspell (Magical Secrets)
+Major Image (C)
 
