@@ -6,17 +6,32 @@ Creation-Date: 2020-02-01T18:32:32-05:00
 Created Saturday 01 February 2020
 
 ====== Status ======
-HP: 28
-
-===== Bardic Inspiration =====
-5/5
-
-===== Spell Slots =====
-1st 2/4
+HP: 41
+hit dice: 1
+darkness racial
+Inspiration
+**Bardic Inspiration**
+0/5
+**Spell Slots**
+1st 3/4
 2nd 1/3
 3rd 0/3
 
-darkness racial
+====== 2020/10/04 ======
+Headed to small town of Marsalam after slaying Orcish chieftan in battle at the Great Divide.
+__In Marsalam. Old man in Tome shop wants us to find the__ [[:Lost Capitol of Agnaratha, City of the Damned]]
+Lower Luxendarc:
+  Catacombs: Champion's Nest, Cathedral of Ash, Black Market
+  Slums: Shop - The Well Within, run by Zardos
+  The Depths (Dangerous)
+Upper Luxendarc
+  Temple of Radiance
+  Royal Palace
+Met Nolan, leader of the insurrection in Luxendarc since Kairon (my dad) was taken
+Met Levius, leader of the Cathedral of Ash
+Lord Farrah is the current leader
+Levius offers us a reward of 15,000GP to kill Lord Farrah and free Luxendarc
+
 
 ====== 2020/09/20 ======
 In the Grapp Keep
@@ -29,7 +44,7 @@ Second chapter of the Fiendish Codex is in Luxendarc
 ====== 2020/08/16 ======
 Fought Prince Gerald in dragon form
 Prince Gerald (Bahamut?) tore Tiamat's black heart out of Vincent
-Saw a vision: Vision said "journey to the tomb of the Old King"
+__Saw a vision: Vision said "journey to the tomb of the Old King"__
 Learned a new power: [[:Bardic Conviction]]
 Met Gensic Steelfoot (dwarf) again in Eisenberg
 Met Uncle Ilhoon, Vincent's uncle
@@ -77,7 +92,7 @@ Traded dragon horn for potions in potion shop, got a map.
 Red-eyes Black Zombie Dragon rained lightning and summoned zombies, destroying the town.
 Sir Henry is a bad-ass!!!
 Cultists were trying to revive [[:Yulyanna]] , the ancient one, the first of the empyreans
-[[:Tauzerat]] the great shadow dragon blew up the village
+[[:Tauzerat]] __the great shadow dragon blew up the village__
 Handed village elder over to Sir Henry to be tried in big city to the south
 
 ====== 2020/05/03 ======

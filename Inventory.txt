@@ -5,28 +5,27 @@ Creation-Date: 2020-02-01T18:32:53-05:00
 ====== Inventory ======
 Created Saturday 01 February 2020
 
-78 GP
+72 GP
 
 ===== Equipped and Attuned =====
 Studded Leather Armor (equipped)
 [[:Cube of Force]]
+[[:Ring of Mind Shielding]]
 Darts
 Harmonica
 Dagger
-Ornate but used ritual dagger
 
+Potion of Greater Healing
 thieves tools
 [[:Pocket Sand]]
 Bag of Caltrops 2
-[[Potion of Climbing]]
-[[Potion of Water Breathing]]
 Leather armor
 Map of Luxendarc (Urchin)
 Map of Granleic
 Playing cards. Some are marked
 
 ===== Bag of Holding =====
-
+300 ft hempen rope (6 50-foot sections)
 
 ===== Entertainer's Pack =====
 Backpack
