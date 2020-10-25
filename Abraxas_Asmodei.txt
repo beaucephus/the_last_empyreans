@@ -7,7 +7,7 @@ Created Thursday 30 April 2020
 
 [[:Inventory]]
 Max HP: 45 (10 + (7 x 5))
-Exp: 14900
+Exp: 18900
 Bard 6
 
 ===== Passive =====

@@ -15,6 +15,8 @@ Darts
 Harmonica
 Dagger
 
+Hazel Wand (Spare the Dying at will)
+Weird devil parchment
 Potion of Greater Healing
 thieves tools
 [[:Pocket Sand]]
@@ -25,14 +27,15 @@ Map of Granleic
 Playing cards. Some are marked
 
 ===== Bag of Holding =====
+Mirror that shows things up-side-down
 300 ft hempen rope (6 50-foot sections)
 
 ===== Entertainer's Pack =====
 Backpack
 Bedroll
-5 days of Rations
+4 days of Rations
 Waterskin
-2 constumes
+2 costumes
 5 candles
 Disguise kit
 
