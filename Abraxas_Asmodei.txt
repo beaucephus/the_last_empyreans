@@ -7,7 +7,7 @@ Created Thursday 30 April 2020
 
 [[:Inventory]]
 Max HP: 45 (10 + (7 x 5))
-Exp: 32900
+Exp: 34900
 Bard 6
 
 ===== Passive =====
@@ -25,7 +25,7 @@ Ritual Casting (Bard)
 
 ===== Long Rest =====
 Spells
-[[:Hellish Rebuke]] (2nd level)
+[[:Hellish Rebuke]] (2ndvel)
 Darkness (C)
 [[:Bardic Conviction]] (vision)
 

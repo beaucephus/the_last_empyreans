@@ -5,7 +5,7 @@ Creation-Date: 2020-02-01T18:32:53-05:00
 ====== Inventory ======
 Created Saturday 01 February 2020
 
-372 GP
+5372 GP
 
 ===== Equipped and Attuned =====
 Studded Leather Armor (equipped)
