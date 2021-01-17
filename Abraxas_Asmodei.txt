@@ -6,9 +6,9 @@ Creation-Date: 2020-04-30T09:57:54-04:00
 Created Thursday 30 April 2020
 
 [[:Inventory]]
-Max HP: 45 (10 + (7 x 5))
-Exp: 34900
-Bard 6
+Max HP: 59 (10 + (7 x 7))
+Exp: 41400
+Bard 8
 
 ===== Passive =====
 Darkvision 60ft (Tiefling)
@@ -19,6 +19,7 @@ Ritual Casting (Bard)
 [[:Song of Rest]]
 [[:Cutting Words]]
 [[:Countercharm]]
+[[:Eldritch Adept]]
 
 ===== Short Rest =====
 [[:Bardic Inspiration]] 
@@ -51,4 +52,8 @@ Locate Object (C)
 **3rd**
 Counterspell (Magical Secrets)
 Major Image (C)
+
+**4th**
+Dimension Door
+Polymorph
 

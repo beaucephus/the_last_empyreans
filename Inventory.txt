@@ -16,21 +16,21 @@ Harmonica
 Dagger
 
 Hazel Wand (Spare the Dying at will)
-Weird devil parchment
 Potion of Healing
+Potion of Superior Healing
 thieves tools
 [[:Pocket Sand]]
 Bag of Caltrops 2
-Leather armor
-Map of Luxendarc (Urchin)
-Map of Granleic
 Playing cards. Some are marked
 
 ===== Bag of Holding =====
+Scroll of Raise Dead
 Mirror that shows things up-side-down
 300 ft hempen rope (6 50-foot sections)
-
-===== Entertainer's Pack =====
+Map of Luxendarc (Urchin)
+Map of Granleic
+Weird devil parchment
+Leather armor
 Backpack
 Bedroll
 4 days of Rations
