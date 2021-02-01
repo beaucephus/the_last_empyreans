@@ -7,8 +7,7 @@ Created Thursday 30 April 2020
 
 [[:Inventory]]
 Max HP: 59 (10 + (7 x 7))
-Exp: 41400
-Bard 8
+Exp: 46200
 
 ===== Passive =====
 Darkvision 60ft (Tiefling)
