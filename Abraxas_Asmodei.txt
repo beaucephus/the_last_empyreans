@@ -5,12 +5,14 @@ Creation-Date: 2020-04-30T09:57:54-04:00
 ====== Abraxas Asmodei ======
 Created Thursday 30 April 2020
 
+Bard 9 (College of Lore)
+
 [[:Inventory]]
-Max HP: 59 (10 + (7 x 7))
-Exp: 46200
+Max HP: 66 (10 + (7 x 8))
+Exp: 51,200
 
 ===== Passive =====
-Darkvision 60ft (Tiefling)
+Darkvision 60ft (Tiefling)                                                                            
 Fire resistance (Tiefling)
 [[:City Secrets]] (Urchin)
 Ritual Casting (Bard)
@@ -56,3 +58,5 @@ Major Image (C)
 Dimension Door
 Polymorph
 
+**5th**
+Modify Memory

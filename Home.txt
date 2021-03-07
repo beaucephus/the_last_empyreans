@@ -6,23 +6,39 @@ Creation-Date: 2020-02-01T18:32:32-05:00
 Created Saturday 01 February 2020
 
 ====== Status ======
-HP: 59/59
+HP: 66/66
 hit dice: 0
 cube of force: 20
 **Bardic Inspiration**
 0/5
 **Spell Slots**
 1st 0/4
-2nd 3/3
+2nd 0/3
 3rd 0/3
-4th 0/2
+4th 0/3
+5th 0/1
 
-Check your level!!!
+=== 18 2021/03/07 ===
+Fought and defeated Father Giddeon who killed the villagers in the ghost town, Stillsnow.
+Father Giddeon was corrupted by Galdera
+Took the teleportation portal inside the Stillsnow shrine
+Found a workshop of sorts with floors of chromium
+Father Giddeon found an artifact called the Mighty Serpent of Luk-O in the lost city of Agnoratha.
+The workshop is in Eternian high command
+I used Locate Object to find where Valaya is, she is here.
+Found rainbow-haired girl as well. She thinks that she is fulfilling a great purpose by brain-washing empyreans
+
+=== 17 2021/02/21 ===
+Father Umbra found a hag coven.
+We tried to fight the hags, they owned us.
+We are magically bound to the Forest of Stauger and need to find a Molten Magma Mushroom for the hags.
+Found a ghost town in the forest, Stillsnow.
 
 === 16 2021/01/31 ===
 Met Yan, ringmaster of the circus. Previous Eternian noble.
 he tasked us with preventing Celadon's sister's assasination
-Lord Umbra and Abraxas infiltrated Lord 
+Lord Umbra and Abraxas infiltrated Lord Odegaya
+Stopped assasination attempt on Celadon's sister
 
 === 15 2021/01/17 ===
 Update your level. You're level 8!
