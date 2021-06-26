@@ -6,6 +6,7 @@ Creation-Date: 2020-02-01T18:32:53-05:00
 Created Saturday 01 February 2020
 
 8372 GP
+50,000 GP in gems
 
 ===== Equipped and Attuned =====
 Studded Leather Armor (equipped)
@@ -27,7 +28,6 @@ Playing cards. Some are marked
 3 purple crystal shards
 Scroll of Raise Dead
 Mirror that shows things up-side-down
-300 ft hempen rope (6 50-foot sections)
 Map of Luxendarc (Urchin)
 Map of Granleic
 Weird devil parchment

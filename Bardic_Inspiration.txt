@@ -5,7 +5,7 @@ Creation-Date: 2020-04-30T10:13:17-04:00
 ====== Bardic Inspiration ======
 Created Thursday 30 April 2020
 
-d8
+d10
 
 You can inspire others through stirring words or music.
 To do so, you use a Bonus Action on Your Turn to choose one creature other than yourself within 60 feet of you who can hear you.

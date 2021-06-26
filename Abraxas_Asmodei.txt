@@ -8,8 +8,8 @@ Created Thursday 30 April 2020
 Bard 9 (College of Lore)
 
 [[:Inventory]]
-Max HP: 66 (10 + (7 x 8))
-Exp: 51,200
+Max HP: 80 (10 + (7 x 10))
+Exp: 70,201
 
 ===== Passive =====
 Darkvision 60ft (Tiefling)                                                                            
@@ -32,7 +32,7 @@ Darkness (C)
 [[:Bardic Conviction]] (vision)
 
 **Cantrips**
-Eldritch Blast (Magical Secrets)
+Eldritch Blast (Lore Bard Magical Secrets)
 Friends
 Message
 Prestidigitation
@@ -51,7 +51,7 @@ Invisibility (C)
 Locate Object (C)
 
 **3rd**
-Counterspell (Magical Secrets)
+Counterspell (Lore Bard Magical Secrets)
 Major Image (C)
 
 **4th**
@@ -59,4 +59,6 @@ Dimension Door
 Polymorph
 
 **5th**
+Azmodeus' Hand (C)(Magical Secrets)
+Mass Cure Wounds (Magical Secrets)
 Modify Memory
