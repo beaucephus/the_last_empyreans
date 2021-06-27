@@ -5,7 +5,7 @@ Creation-Date: 2020-04-30T09:57:54-04:00
 ====== Abraxas Asmodei ======
 Created Thursday 30 April 2020
 
-Bard 9 (College of Lore)
+Bard 11 (College of Lore)
 
 [[:Inventory]]
 Max HP: 80 (10 + (7 x 10))
@@ -21,6 +21,7 @@ Ritual Casting (Bard)
 [[:Cutting Words]]
 [[:Countercharm]]
 [[:Eldritch Adept]]
+[[:Deck of Many Things Curse]]
 
 ===== Short Rest =====
 [[:Bardic Inspiration]] 
